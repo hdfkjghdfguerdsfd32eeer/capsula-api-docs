@@ -1,8 +1,10 @@
 # Офицальная документация для capsula-api
 
-[Rest API](./rest-api.md)
-[Список ошибок](./errors.md)
+## Список документов
 
-# Контакты
+* [Rest API](./rest-api.md)
+* [Список ошибок](./errors.md)
+
+## Контакты
 
 <https://capsula24.com/contacts/>
